@@ -5,7 +5,7 @@
 ## Features
 
 - **Medication Management:** Add medications with specific times of day and food requirements.
-- **Notification System:** Sends notifications to remind users about their medication schedules.
+- **Notification System (Not *Yet* Ready In This Commit) :** Sends notifications to remind users about their medication schedules.
 - **Local User Setup:** Currently designed for a single local user; multi-user support to be added later.
 
 ## Setup Instructions
